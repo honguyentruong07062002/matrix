@@ -38,8 +38,8 @@ const int LEDMATRIX_SEGMENTS = 4;
 // The LEDMatrixDriver class instance
 LEDMatrixDriver lmd(LEDMATRIX_SEGMENTS, LEDMATRIX_CS_PIN);
 
-//const char* ssid     = "S1030519";     // Thay Ä‘á»•i tÃªn wifi
-//const char* password = "05041622";   // Thay Ä‘á»•i Password wifi
+//const char* ssid     = "S1030519";     // thay tên wifi của bạn
+//const char* password = "05041622";   // thay pass wifi của bạn
 const char* ssid     = "Hihi";     // Thay Ä‘á»•i tÃªn wifi
 const char* password = "07062002";   // Thay Ä‘á»•i Password wifi
 
